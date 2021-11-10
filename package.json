@@ -1,0 +1,23 @@
+{
+	"name": "flixify-dark",
+	"displayName": "Flixify Dark",
+	"description": "A dark Monokai theme.",
+	"version": "0.1.0",
+	"publisher": "flix",
+	"repository": "https://github.com/flix/flixify-dark",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Flixify Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/flixify-dark.json"
+			}
+		]
+	}
+}
