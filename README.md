@@ -7,3 +7,8 @@ Based on
 and 
 [Monokai Alt](https://github.com/sarcadass/vscode-monokai-alt/).
 
+# Recommended VSCode Settings
+
+- Line Height: 1.2.
+- Font: Fira Code with Ligatures.
+
