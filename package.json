@@ -2,7 +2,7 @@
 	"name": "flixify-dark",
 	"displayName": "Flixify Dark",
 	"description": "A dark Monokai theme.",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"publisher": "flix",
 	"repository": "https://github.com/flix/flixify-dark",
 	"engines": {
