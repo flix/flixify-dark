@@ -5,5 +5,5 @@ A Dark Monokai theme for Flix.
 Based on 
 [Monokai Dark Soda](https://github.com/AdamCaviness/vs-code-theme-monokai-dark-soda)
 and 
-[Monokai Alt](https://github.com/sarcadass/vscode-monokai-alt/blob/master/themes/monokai-alt-color-theme.json)
+[Monokai Alt](https://github.com/sarcadass/vscode-monokai-alt/).
 
