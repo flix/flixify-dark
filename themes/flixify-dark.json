@@ -106,15 +106,15 @@
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#fa3e83",
+				"foreground": "#FA3E83",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#66D9EF",
-				"fontStyle": "italic"
+				"foreground": "#FA3E83",
+				"fontStyle": ""
 			}
 		},
 		{
