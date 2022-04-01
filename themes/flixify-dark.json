@@ -437,6 +437,10 @@
 			"foreground": "#f8f8f2",
 			"fontStyle": "italic"
 		},
+        "typeParameter": {
+			"foreground": "#66a6ef",
+			"fontStyle": ""
+		},
 		"property": {
 			"foreground": "#c8c8c2",
 			"fontStyle": "underline"
