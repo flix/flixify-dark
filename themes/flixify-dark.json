@@ -118,6 +118,13 @@
 			}
 		},
 		{
+			"scope": "storage.type.annotation",
+			"settings": {
+				"foreground": "#cccccc",
+				"fontStyle": ""
+			}
+		},
+		{
 			"scope": "entity.name.class",
 			"settings": {
 				"foreground": "#ace340",
@@ -141,8 +148,8 @@
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#fcb058",
-				"fontStyle": "italic"
+				"foreground": "#C8C8C2",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -438,8 +445,8 @@
 			"fontStyle": "italic"
 		},
         "typeParameter": {
-			"foreground": "#66a6ef",
-			"fontStyle": ""
+			"foreground": "#F8F8F2",
+			"fontStyle": "italic"
 		},
 		"property": {
 			"foreground": "#c8c8c2",
