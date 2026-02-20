@@ -118,9 +118,9 @@
 			}
 		},
 		{
-			"scope": "storage.type.annotation",
+			"scope": "storage.type.annotation, meta.decorator, punctuation.decorator, entity.name.function.decorator",
 			"settings": {
-				"foreground": "#cccccc",
+				"foreground": "#9CA0A8",
 				"fontStyle": ""
 			}
 		},
@@ -455,6 +455,9 @@
 		"variable": {
 			"foreground": "#c8c8c2",
 			"fontStyle": ""
+		},
+		"decorator": {
+			"foreground": "#9CA0A8"
 		},
 		"effect": {
 			"foreground": "#FF8C00"
