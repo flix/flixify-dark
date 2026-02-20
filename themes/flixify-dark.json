@@ -455,6 +455,9 @@
 		"variable": {
 			"foreground": "#c8c8c2",
 			"fontStyle": ""
+		},
+		"effect": {
+			"foreground": "#FF8C00"
 		}
 	  }
 }
