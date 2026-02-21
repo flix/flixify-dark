@@ -120,7 +120,7 @@
 		{
 			"scope": "storage.type.annotation, meta.decorator, punctuation.decorator, entity.name.function.decorator",
 			"settings": {
-				"foreground": "#9CA0A8",
+				"foreground": "#F8F8F2",
 				"fontStyle": ""
 			}
 		},
@@ -457,7 +457,7 @@
 			"fontStyle": ""
 		},
 		"decorator": {
-			"foreground": "#9CA0A8"
+			"foreground": "#F8F8F2"
 		},
 		"effect": {
 			"foreground": "#FF8C00"
